@@ -1,4 +1,4 @@
-FROM jenkins:weekly
+FROM jenkins:1.596.2
 MAINTAINER ototadana@gmail.com
 
 USER root
@@ -15,12 +15,6 @@ RUN chown -R jenkins:jenkins /config
 RUN chmod +x /config/*
 
 USER jenkins
-RUN jar tf /usr/share/jenkins/jenkins.war WEB-INF/plugins \
-       | grep hpi \
-       | sed -e 's|WEB-INF/plugins|wget http://updates.jenkins-ci.org/latest|' \
-       | sed -e 's|\.hpi$|.hpi -P /config/plugins|' >/config/download-latest-plugins.sh \
-    && bash /config/download-latest-plugins.sh
-
 RUN /usr/local/bin/plugins.sh /config/plugins.txt
 
 ENTRYPOINT ["/config/entrypoint"]
