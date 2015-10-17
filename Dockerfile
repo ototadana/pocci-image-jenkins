@@ -1,4 +1,4 @@
-FROM jenkins:1.609.3
+FROM jenkins:1.625.1
 MAINTAINER ototadana@gmail.com
 
 USER root
