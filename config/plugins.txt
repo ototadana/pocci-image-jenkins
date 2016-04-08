@@ -25,6 +25,7 @@ pam-auth:1.2
 pipeline-build-step:2.0
 pipeline-input-step:2.0
 pipeline-stage-step:2.0
+role-strategy:2.2.0
 scm-api:1.1
 script-security:1.18
 ssh-credentials:1.11
