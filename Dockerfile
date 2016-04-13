@@ -4,7 +4,7 @@ MAINTAINER ototadana@gmail.com
 USER root
 
 RUN apt-get update \
-    && apt-get install -y sudo \
+    && apt-get install -y sudo vim \
     && rm -rf /var/lib/apt/lists/*
 
 RUN echo "jenkins ALL=(ALL) NOPASSWD:ALL" >>/etc/sudoers
