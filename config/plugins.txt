@@ -41,7 +41,7 @@ workflow-cps:2.1
 workflow-cps-global-lib:2.0
 workflow-durable-task-step:2.0
 workflow-job:2.1
-workflow-multibranch:2.1
+workflow-multibranch:2.3
 workflow-scm-step:2.0
 workflow-step-api:2.0
 workflow-support:2.0
