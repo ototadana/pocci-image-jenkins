@@ -14,9 +14,9 @@ gitlab-plugin:1.1.32
 icon-shim:2.0.3
 javadoc:1.3
 jquery-detached:1.2.1
-junit:1.11
+junit:1.12
 ldap:1.11
-mailer:1.16
+mailer:1.17
 mapdb-api:1.0.6.0
 matrix-auth:1.3.2
 matrix-project:1.6
@@ -32,7 +32,7 @@ ssh-credentials:1.11
 ssh-slaves:1.10
 structs:1.1
 subversion:2.5.7
-translation:1.12
+translation:1.14
 windows-slaves:1.1
 workflow-aggregator:2.0
 workflow-api:2.0
