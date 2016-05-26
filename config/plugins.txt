@@ -10,7 +10,7 @@ external-monitor-job:1.4
 git:2.4.4
 git-client:1.19.6
 git-server:1.6
-gitlab-plugin:1.2.2
+gitlab-plugin:1.2.3
 handlebars:1.1.1
 icon-shim:2.0.3
 javadoc:1.3
