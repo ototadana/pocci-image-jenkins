@@ -35,7 +35,7 @@ scm-api:1.2
 script-security:1.19
 ssh-credentials:1.12
 ssh-slaves:1.11
-structs:1.1
+structs:
 subversion:2.5.7
 translation:1.14
 windows-slaves:1.1
