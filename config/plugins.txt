@@ -7,7 +7,7 @@ credentials:2.1.4
 cvs:2.12
 durable-task:1.11
 external-monitor-job:1.4
-git:2.5.1
+git:2.5.2
 git-client:1.19.6
 git-server:1.6
 gitlab-plugin:1.2.5
@@ -15,7 +15,7 @@ handlebars:1.1.1
 icon-shim:2.0.3
 javadoc:1.4
 jquery-detached:1.2.1
-junit:1.13
+junit:1.14
 ldap:1.12
 mailer:1.17
 mapdb-api:1.0.9.0
@@ -47,6 +47,6 @@ workflow-cps-global-lib:2.1
 workflow-durable-task-step:2.3
 workflow-job:2.3
 workflow-multibranch:2.8
-workflow-scm-step:2.1
+workflow-scm-step:2.2
 workflow-step-api:2.2
 workflow-support:2.1
