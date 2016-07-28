@@ -35,7 +35,7 @@ scm-api:1.2
 script-security:1.21
 ssh-credentials:1.12
 ssh-slaves:1.11
-structs:1.2
+structs:1.3
 subversion:2.6
 translation:1.15
 windows-slaves:1.1
@@ -48,5 +48,5 @@ workflow-durable-task-step:2.3
 workflow-job:2.3
 workflow-multibranch:2.8
 workflow-scm-step:2.2
-workflow-step-api:2.2
+workflow-step-api:2.3
 workflow-support:2.2
