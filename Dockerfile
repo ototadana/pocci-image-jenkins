@@ -1,11 +1,9 @@
-FROM jenkins:1.651.3
+FROM jenkins:2.7.2-alpine
 MAINTAINER ototadana@gmail.com
 
 USER root
 
-RUN apt-get update \
-    && apt-get install -y sudo vim \
-    && rm -rf /var/lib/apt/lists/*
+RUN apk add --no-cache sudo vim
 
 RUN echo "jenkins ALL=(ALL) NOPASSWD:ALL" >>/etc/sudoers
 
