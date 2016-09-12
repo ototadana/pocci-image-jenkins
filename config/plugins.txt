@@ -8,8 +8,8 @@ cvs:2.12
 durable-task:1.12
 display-url-api:0.3
 external-monitor-job:1.6
-git:2.6.0
-git-client:1.21.0
+git:3.0.0
+git-client:2.0.0
 git-server:1.7
 gitlab-plugin:1.4.0
 handlebars:1.1.1
@@ -51,4 +51,4 @@ workflow-job:2.6
 workflow-multibranch:2.8
 workflow-scm-step:2.2
 workflow-step-api:2.3
-workflow-support:2.2
+workflow-support:2.4
