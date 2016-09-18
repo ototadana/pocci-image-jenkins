@@ -51,4 +51,4 @@ workflow-job:2.6
 workflow-multibranch:2.8
 workflow-scm-step:2.2
 workflow-step-api:2.3
-workflow-support:2.4
+workflow-support:2.5
