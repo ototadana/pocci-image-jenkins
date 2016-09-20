@@ -3,7 +3,7 @@ ant:1.4
 antisamy-markup-formatter:1.5
 branch-api:1.10.2
 cloudbees-folder:5.12
-credentials:2.1.4
+credentials:2.1.5
 cvs:2.12
 durable-task:1.12
 display-url-api:0.3
@@ -17,7 +17,7 @@ icon-shim:2.0.3
 javadoc:1.4
 jquery-detached:1.2.1
 junit:1.18
-ldap:1.12
+ldap:1.13
 mailer:1.18
 mapdb-api:1.0.9.0
 matrix-auth:1.4
