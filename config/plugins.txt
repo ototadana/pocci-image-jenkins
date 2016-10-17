@@ -16,7 +16,7 @@ handlebars:1.1.1
 icon-shim:2.0.3
 javadoc:1.4
 jquery-detached:1.2.1
-junit:1.18
+junit:1.19
 ldap:1.13
 mailer:1.18
 mapdb-api:1.0.9.0
