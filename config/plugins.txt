@@ -3,7 +3,7 @@ ant:1.4
 antisamy-markup-formatter:1.5
 branch-api:1.11
 cloudbees-folder:5.13
-credentials:2.1.6
+credentials:2.1.7
 cvs:2.12
 durable-task:1.12
 display-url-api:0.5
@@ -39,7 +39,7 @@ script-security:1.23
 ssh-credentials:1.12
 ssh-slaves:1.11
 structs:1.5
-subversion:2.6
+subversion:2.7.1
 translation:1.15
 windows-slaves:1.2
 workflow-aggregator:2.4
