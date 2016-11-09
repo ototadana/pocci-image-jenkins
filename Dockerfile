@@ -1,4 +1,4 @@
-FROM jenkins:2.19.1-alpine
+FROM jenkins:2.19.2-alpine
 MAINTAINER ototadana@gmail.com
 
 USER root
