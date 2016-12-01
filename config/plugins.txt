@@ -43,7 +43,7 @@ subversion:2.7.1
 translation:1.15
 windows-slaves:1.2
 workflow-aggregator:2.4
-workflow-api:2.7
+workflow-api:2.8
 workflow-basic-steps:2.3
 workflow-cps:2.23
 workflow-cps-global-lib:2.5
