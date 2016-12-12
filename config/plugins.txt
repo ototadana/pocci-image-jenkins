@@ -2,7 +2,7 @@ ace-editor:1.1
 ant:1.4
 antisamy-markup-formatter:1.5
 branch-api:1.11.1
-cloudbees-folder:5.13
+cloudbees-folder:5.14
 credentials:2.1.10
 cvs:2.12
 durable-task:1.12
@@ -51,5 +51,5 @@ workflow-durable-task-step:2.5
 workflow-job:2.9
 workflow-multibranch:2.9.2
 workflow-scm-step:2.3
-workflow-step-api:2.5
+workflow-step-api:2.6
 workflow-support:2.11
