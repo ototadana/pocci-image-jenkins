@@ -42,7 +42,7 @@ pipeline-stage-view:2.5
 pipeline-rest-api:2.5
 plain-credentials:1.4
 role-strategy:2.3.2
-scm-api:2.0.5
+scm-api:2.0.7
 script-security:1.26
 ssh-credentials:1.13
 ssh-slaves:1.13
