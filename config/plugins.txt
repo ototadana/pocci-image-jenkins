@@ -53,7 +53,7 @@ windows-slaves:1.2
 workflow-aggregator:2.5
 workflow-api:2.11
 workflow-basic-steps:2.4
-workflow-cps:2.27
+workflow-cps:2.28
 workflow-cps-global-lib:2.6
 workflow-durable-task-step:2.9
 workflow-job:2.10
