@@ -13,7 +13,7 @@ durable-task:1.13
 display-url-api:1.1.1
 external-monitor-job:1.7
 git:3.0.5
-git-client:2.2.1
+git-client:2.3.0
 git-server:1.7
 gitlab-plugin:1.4.5
 handlebars:1.1.1
@@ -43,7 +43,7 @@ pipeline-rest-api:2.5
 plain-credentials:1.4
 role-strategy:2.3.2
 scm-api:2.0.7
-script-security:1.26
+script-security:1.27
 ssh-credentials:1.13
 ssh-slaves:1.13
 structs:1.6
@@ -58,6 +58,6 @@ workflow-cps-global-lib:2.6
 workflow-durable-task-step:2.9
 workflow-job:2.10
 workflow-multibranch:2.12
-workflow-scm-step:2.3
+workflow-scm-step:2.4
 workflow-step-api:2.9
 workflow-support:2.13
