@@ -12,7 +12,7 @@ docker-workflow:1.10
 durable-task:1.13
 display-url-api:1.1.1
 external-monitor-job:1.7
-git:3.0.5
+git:3.1.0
 git-client:2.3.0
 git-server:1.7
 gitlab-plugin:1.4.5
@@ -53,11 +53,11 @@ windows-slaves:1.2
 workflow-aggregator:2.5
 workflow-api:2.11
 workflow-basic-steps:2.4
-workflow-cps:2.28
-workflow-cps-global-lib:2.6
+workflow-cps:2.29
+workflow-cps-global-lib:2.7
 workflow-durable-task-step:2.9
 workflow-job:2.10
-workflow-multibranch:2.12
+workflow-multibranch:2.13
 workflow-scm-step:2.4
 workflow-step-api:2.9
 workflow-support:2.13
