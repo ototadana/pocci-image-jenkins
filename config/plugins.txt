@@ -38,8 +38,8 @@ pipeline-model-definition:1.0.2
 pipeline-model-declarative-agent:1.0.2
 pipeline-stage-tags-metadata:1.0.2
 pipeline-stage-step:2.2
-pipeline-stage-view:2.5
-pipeline-rest-api:2.5
+pipeline-stage-view:2.6
+pipeline-rest-api:2.6
 plain-credentials:1.4
 role-strategy:2.3.2
 scm-api:2.0.8
