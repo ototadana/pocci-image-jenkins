@@ -22,7 +22,7 @@ javadoc:1.4
 jquery-detached:1.2.1
 junit:1.20
 ldap:1.14
-mailer:1.19
+mailer:1.20
 mapdb-api:1.0.9.0
 matrix-auth:1.4
 matrix-project:1.8
@@ -46,7 +46,7 @@ role-strategy:2.3.2
 scm-api:2.1.1
 script-security:1.27
 ssh-credentials:1.13
-ssh-slaves:1.14
+ssh-slaves:1.15
 structs:1.6
 subversion:2.7.2
 translation:1.15
