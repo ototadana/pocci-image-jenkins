@@ -1,3 +1,3 @@
 What's this ?
 -------------
-[Jenkins](http://jenkins-ci.org/) with [Pipeline Plugin](https://wiki.jenkins-ci.org/display/JENKINS/Pipeline+Plugin).
+[Jenkins](https://jenkins.io/) with [Pipeline Plugin](https://plugins.jenkins.io/workflow-aggregator).
