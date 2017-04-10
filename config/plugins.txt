@@ -24,7 +24,7 @@ junit:1.20
 ldap:1.14
 mailer:1.20
 mapdb-api:1.0.9.0
-matrix-auth:1.4
+matrix-auth:1.5
 matrix-project:1.9
 maven-plugin:2.15.1
 momentjs:1.1.1
@@ -42,7 +42,7 @@ pipeline-stage-step:2.2
 pipeline-stage-view:2.6
 pipeline-rest-api:2.6
 plain-credentials:1.4
-role-strategy:2.3.2
+role-strategy:2.4.0
 scm-api:2.1.1
 script-security:1.27
 ssh-credentials:1.13
