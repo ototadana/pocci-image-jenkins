@@ -1,7 +1,7 @@
 ant:1.5
 cvs:2.13
 external-monitor-job:1.7
-gitlab-plugin:1.4.6
+gitlab-plugin:1.4.7
 ldap:1.16
 maven-plugin:2.17
 pam-auth:1.3
