@@ -1,4 +1,4 @@
-FROM jenkinsci/blueocean:1.1.5-fd558382975e
+FROM jenkinsci/blueocean:1.1.7-387ea2ba89e3
 MAINTAINER ototadana@gmail.com
 
 USER root
