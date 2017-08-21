@@ -1,4 +1,4 @@
-ant:1.6
+ant:1.7
 cvs:2.13
 external-monitor-job:1.7
 gitlab-plugin:1.4.7
